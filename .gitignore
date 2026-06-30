@@ -1,0 +1,41 @@
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Build and simulation outputs
+*.o
+*.out
+*.elf
+*.hex
+*.asm
+*.map
+*.bin
+results.xml
+
+# Waveform files
+*.vcd
+*.fst
+*.gtkw
+
+# Build directories
+build/
+sim_build/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Solution/reference files
+SOL_*.sv
+SOL_*/
+
+# Logs
+*.log
