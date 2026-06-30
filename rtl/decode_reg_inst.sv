@@ -33,7 +33,6 @@ always_comb begin
 end
 
 // Edit the code here end -----------------------------------------------------
-
 /*
 	Following section is necessary for dumping waveforms. This is needed for debug and simulations
 */
